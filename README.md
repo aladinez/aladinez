@@ -8,7 +8,7 @@
 </a>
 <br /><br />
 <a href="https://github.com/aladinez/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aladinez&layout=compact&theme=synthwave" alt="Alae's most used languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aladinez&theme=synthwave" alt="Alae's most used languages" />
 </a>
 <a href="https://github.com/aladinez/">
   <img align="center" height=200 width=450 src="https://github-readme-stats.vercel.app/api?username=aladinez&show_icons=true&theme=synthwave&count_private=true&include_all_commits=true&hide=stars" alt="Alae Stats" />
